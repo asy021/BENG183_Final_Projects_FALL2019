@@ -39,7 +39,10 @@ Very early scRNA-seq technologies were developed and utilized from 2009 to 2011.
 4. Sequence generated cDNA via a PCR-based sequencing method
 
 ## STRT-seq <a name="7"></a>
-![](STRT-Seq.png)
+
+<p align="center">
+  ![](STRT-Seq.png)
+</p>
 
 
 Developed in early 2011, Single-Cell Tagged Reverse Transcription Sequencing (STRT-seq) is one of the first examples of a comprehensive scRNA-seq technology. The main goal of the procedure is to achieve scRNA-seq in parallel, allowing for the processing of many cells at once. To accomplish this, standard practices are followed until the generation of cDNA. A specific reverse transcriptase is used which appends the 3' end of each 1st-strand cDNA with 3 to 6 cytosines. The poly-N tail addition of various reverse transcriptases was a known pehnomenon, but STRT-seq sought to use it in an innovative way.
